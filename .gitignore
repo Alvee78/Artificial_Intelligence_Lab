@@ -221,3 +221,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 >>>>>>> bb2ea52d584fe96f2761d3462cd936471b9730e4
+
+
+test.ipynb
+test.py
+my_model.py
